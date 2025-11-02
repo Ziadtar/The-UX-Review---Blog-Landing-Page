@@ -1,0 +1,90 @@
+/* sm */
+@media screen and (min-width:576px) {
+    .sm-25{
+        width: 25%;
+    }
+    .sm-33{
+        width: 33.3334;
+    }
+    .sm-50{
+        width: 50%;
+    }
+    .sm-100{
+        width: 100%;
+    }
+}
+/* md */
+@media screen and (max-width:768px) {
+    .md-25{
+        width: 25%;
+    }
+    .md-33{
+        width: 33.3334;
+    }
+    .md-50{
+        width: 50%;
+    }
+    .md-100{
+        width: 100%;
+    }
+    .CATEGORIES{
+        text-align: center;
+    }
+    .humburgar{
+        display: block;
+    }
+    .subscribe{
+        display: none;
+    }
+    .bar-items{
+        display: none;
+    }
+    .contianar{
+        flex-direction: column;
+    }
+}
+/* lg */
+@media screen and (min-width:992px) {
+    .lg-25{
+        width: 25%;
+    }
+    .lg-33{
+        width: 33.3334;
+    }
+    .lg-50{
+        width: 50%;
+    }
+    .lg-100{
+        width: 100%;
+    }
+}
+/* xl */
+@media screen and (min-width:1200px) {
+    .xl-25{
+        width: 25%;
+    }
+    .xl-33{
+        width: 33.3334;
+    }
+    .xl-50{
+        width: 50%;
+    }
+    .xl-100{
+        width: 100%;
+    }
+}
+/* xxl */
+@media screen and (min-width:1400px) {
+    .xxl-25{
+        width: 25%;
+    }
+    .xxl-33{
+        width: 33.3334;
+    }
+    .xxl-50{
+        width: 50%;
+    }
+    .xxl-100{
+        width: 100%;
+    }
+}
